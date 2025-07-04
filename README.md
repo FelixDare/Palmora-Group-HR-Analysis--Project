@@ -72,7 +72,7 @@ Palmora Group HR case study project
   - In all locations, the total sum of salary paid to the male staff is greater than the total paid to the female staff. However, this does not mean that the males were better paid than their female colleagues, it only means that the population of the male staff is greater than that of the female staff and so the total amount paid in all the regions.
   - Only 292 out of 946 employees received $90,000 and above before the bonus proposal while just 330 employees will receive $90,000 and above after bonus payment implementation.
 
-### Recommendation
+### Recommendations
 
 - The Palmora Group should do more in terms of balancing the existing gender inequality by employing more females than males in the subsequent employment process
 - The recommendation above is not only to correct the gender inequality but to also get more operational efficiency from the staff since more females were rated "Very Good" than males
