@@ -42,7 +42,9 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
 This is where we used some Excel functions notably pivot table and Power BI to perform various analysis used during our work.
 
-Amazon case study project.xlsx
+Palmora Group HR case study project
+![image](https://github.com/user-attachments/assets/c7565d99-14d8-4c5c-bdbf-4779498dcfcb)
+
 
 
 ### Results
