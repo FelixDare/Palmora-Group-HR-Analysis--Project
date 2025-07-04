@@ -43,7 +43,12 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 This is where we used some Excel functions notably pivot table and Power BI to perform various analysis used during our work.
 
 Palmora Group HR case study project
+
 ![image](https://github.com/user-attachments/assets/c7565d99-14d8-4c5c-bdbf-4779498dcfcb)
+
+
+![image](https://github.com/user-attachments/assets/c1742bb6-e618-47cb-8ae0-1b17331cd204)
+
 
 
 
