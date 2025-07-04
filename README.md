@@ -38,7 +38,7 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - what is the number of employees in each of the category of salary range created?
 - what is the total salary to be paid after the implementation of the proposed bonus in each region and in the company-wide? 
 
- ### Data Analysis
+ ### Data Analysis and Results
 
 This is where we used some Excel functions notably pivot table and Power BI to perform various analysis used during our work.
 
@@ -50,21 +50,34 @@ Palmora Group HR case study project
 ![image](https://github.com/user-attachments/assets/c1742bb6-e618-47cb-8ae0-1b17331cd204)
 
 
+![image](https://github.com/user-attachments/assets/197bc37c-8f98-4fa1-aec8-95ce752ef027)
 
 
-### Results
+![image](https://github.com/user-attachments/assets/9fd60a49-f552-4ada-a088-5f878338d2a0)
+
+
+![image](https://github.com/user-attachments/assets/b2bdcb2f-844a-4551-91d1-0c572762aa40)
+
+
+![image](https://github.com/user-attachments/assets/2ff2deae-df04-45c1-bad9-473c74bbf794)
+
+
+
+
+### Interpretation of Results
   
-  - Electromics as a product category has highest number of customer engagement while Toys & Games has the least
-  - Belkin Apple as product has highest Average Rating
-  - Home Improvement has the highest discount percentage while Toys & Game has no discount
-  - Electronics in the product category have have highest revenue potential
-  - The relationship between product category rating and discount percentage is positive
-  - Wayona Nylon Braided and Samsung Galaxy M13 both have highest rating and customer engagement as products with 8 and 64 numbers respectively and both happened to be Computer Accessory and Electronics by category
+  - The male staff are more than the female staff in as many as 7 out of 12 departments across the regions
+  - On the average, males were rated higher but females were rated Very Good more than male counterpart
+  - In all the regions, male staff are more than the female staff
+  - In all locations, the total sum of salary paid to the male staff is greater than the total paid to the female staff. However, this does not mean that the males were better paid than their female colleagues, it only means that the population of the male staff is greater than that of the female staff and so the total amount paid in all the regions.
+  - Only 292 out of 946 employees received $90,000 and above before the bonus proposal while just 330 employees will receive $90,000 and above after bonus payment implementation.
 
 ### Recommendation
 
-- Since the result reveal that Electronics category of products is the major stength of Amazon Company, as shown in the result in terms of customer engagement and highest potential revenue, more fund allocation should be given to the category.
-- The company should also consider scrapping or discountinuing the Toys & Games line of business and use the facilities for more yielding business line such as Electronics and Computer accessory categories.
+- The Palmora Group should do more in terms of balancing the existing gender inequality by employing more females than males in the subsequent employment process
+- The recommendation above is not only to correct the gender inequality but to also get more operational efficiency from the staff since more females were rated "Very Good" than males
+- There should be an upward salary review in order to comply with the new regulation
 
 ### Conclusion
-The Exploratory data analysis conducted for the Amazon Company has given insight to the level of customer engagement, market strategy and revenue generation potential. The management of Amazon are advised to use the insights from this analysis as a guidiance for the strategic decision making.  
+
+The Exploratory data analysis conducted for the Palmora Group of Companies has given insight to the insinuations around the gender inequality with the results and interpretations given above. This should guide the management of the company in their employment process policies and staff remuneration in order to stay compliant with the rules and regulations on the government to avert being penalised in terms of fines and litigateion charges.
